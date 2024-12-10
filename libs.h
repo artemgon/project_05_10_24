@@ -8,6 +8,7 @@
 #include <time.h>
 #include <cstdarg>
 #include <cctype>
-#include <cstring> 
+#include <cstring>
+#include <stack>
 
 using namespace std;
